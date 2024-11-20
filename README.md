@@ -24,7 +24,7 @@ A continuación se muestran algunas imágenes de los módulos principales.
 ## Pagina de login
 
  <img src="capturas/login.png" width="50%" alt="Login">
- <img src="capturas/login2.png" width="90" alt="Login">
+ <img src="capturas/login2.png" width="50%" alt="Login">
 
 ## Pagina principal
 
@@ -37,10 +37,10 @@ A continuación se muestran algunas imágenes de los módulos principales.
 
 ### Módulo de clientes
 
- <img src="capturas/cliente_form.png" width="190" alt="Clientes">
+ <img src="capturas/cliente_form.png" width="100%" alt="Clientes">
 
 ## Módulo de compras
 
- <img src="capturas/compras.png" width="190" alt="Clientes">
+ <img src="capturas/compras.png" width="100%" alt="Clientes">
  
 Todos los Derechos reservados a @VentasOne
